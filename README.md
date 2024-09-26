@@ -1,2 +1,3 @@
 # Django-CRUD
-This is the CRUD operations in the Django
+This is the CRUD operations in the Django.
+Author-Sumit Gurav.
